@@ -3,7 +3,7 @@
   "symbol": "WADE",
   "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
   "seller_fee_basis_points": 1000,
-  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://arweave.net/ju5f6M_fJduOJ-MMR3EG8BVPzbg3TNrw4PkBhlKR7rs",
+  "image": "https://bafybeicprjt63mqgcxo5e4zx7jwxbr2s6d3hqchnvaep6f3nznxzdwle24.ipfs.nftstorage.link/0.gif?ext=gif",
   "attributes": [],
   "properties": {
     "files": [
